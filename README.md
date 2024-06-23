@@ -7,6 +7,7 @@
 ![](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white)
 ![](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white)
 ![](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white)
+![](https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white)
 
 ## 🧑‍💻 Contact me
 <br/>
